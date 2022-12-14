@@ -4,7 +4,7 @@
 <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-     <title>REFRAME | Personal One Page HTML Template</title>
+     <title>Dodi Novembri</title>
      <link rel="icon" type="image/png" href="assets/images/favicon.png">
      <link rel="preconnect" href="https://fonts.googleapis.com/">
      <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -17,7 +17,7 @@
      <div class="loading-screen">
           <div class="inner">
                <div class="text-box">
-                    <h3>Jenna Sinclair</h3>
+                    <h3>Dodi Novembri</h3>
                </div>
                <div class="line-frame">
                     <div class="line"></div>
@@ -69,7 +69,7 @@
           <div class="left-content noselect">
                <div class="inner-content">
                     <div class="name">
-                         <p class="small color-white">Jenna Sinclair</p>
+                         <p class="small color-white">Dodi Novembri</p>
                          <div class="seperator-line"></div>
                     </div>
                     <div class="picture-box">
@@ -86,7 +86,7 @@
                          <div class="section height-100 y-center" style="padding-bottom:2rem" id="intro">
                               <div class="container">
                                    <p class="tag m-b-4">INTRODUCTION</p>
-                                   <h1 class="m-b-5 m-l-3">I'm a Creative Developer & Technology Expert</h1>
+                                   <h1 class="m-b-5 m-l-3">I'm a System Analyst & IT Developer</h1>
                                    <div class="seperator-line"></div>
                               </div>
                          </div>
@@ -96,11 +96,7 @@
                                    <h3 class="m-b-4 m-l-1 scroll-animation">My approach to building<br>the tech brands
                                         of tomorrow.</h3>
                                    <div class="seperator-line m-b-4 scroll-animation"></div>
-                                   <p class="scroll-animation">Lorem Ipsum is simply dummy text of the printing and
-                                        typesetting industry. Lorem Ipsum has been the industry's standard dummy text
-                                        ever since the 1500s, when an unknown printer took a galley of type and
-                                        scrambled it to make a type specimen book. It has survived not only five
-                                        centuries, but also the leap into electronic typesetting.</p>
+                                   <p class="scroll-animation">Experienced 4+ years as a System Analyst and IT Developer. Familiar with various development phases. Good at working individually and in a team. Quickly learn and apply new technologies..</p>
                               </div>
                          </div>
                          <div class="section" style="padding-bottom:20rem">
